@@ -214,3 +214,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets and Credentials
+.env
+*.key
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# uv and dependency locks
+.uv/
+
+# IDE specific
+.vscode/
+.idea/
